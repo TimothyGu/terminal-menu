@@ -1,7 +1,7 @@
 {
-  "name": "terminal-menu",
-  "version": "2.1.1",
-  "description": "retro ansi terminal menus for serious 80s technicolor business",
+  "name": "@timothygu/terminal-menu",
+  "version": "2.1.2",
+  "description": "my fork of substack's terminal-menu",
   "main": "index.js",
   "dependencies": {
     "charm": "^1.0.0",
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/terminal-menu.git"
+    "url": "git://github.com/TimothyGu/terminal-menu.git"
   },
-  "homepage": "https://github.com/substack/terminal-menu",
+  "homepage": "https://github.com/TimothyGu/terminal-menu",
   "keywords": [
     "menu",
     "terminal",
